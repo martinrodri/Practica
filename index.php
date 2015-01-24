@@ -4,5 +4,4 @@ echo "Adios Mundo";
 echo "Hola Keilor";
 echo "Hola Martin";
 echo "Hola keilor como estas";
-echo "Bien y tu";
 ?>
